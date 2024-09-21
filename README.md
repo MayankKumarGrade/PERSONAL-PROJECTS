@@ -21,7 +21,7 @@ Welcome to my personal projects repository! This collection showcases my journey
 
 ## Future Projects
 
-- **Project Idea 1**: Brief overview of what you plan to create, potential technologies, and expected features.
+- **Fully Functioning File Management System**
 
 ## Getting Started
 
