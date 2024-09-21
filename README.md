@@ -4,7 +4,7 @@ Welcome to my personal projects repository! This collection showcases my journey
 
 ## Hosted Sites
 
-- [Project 1: frame Magic]((https://framemagic-mayank-kumar-grade.vercel.app/)) - It's an AI Image tool.
+- [Project 1: frame Magic](https://framemagic-mayank-kumar-grade.vercel.app/) - It's an AI Image tool.
 - [Project 2: Cloud Connect](https://aicipherhive-mayank-kumar-grade.vercel.app/) - It's an end to end encrypted Cloud Storage.
 
 ## Current Projects
